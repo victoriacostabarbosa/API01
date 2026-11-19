@@ -1,4 +1,4 @@
-import express from 'express';
+//meu teste 
 import { produtos } from './produtos.js';
 
 const app = express();
